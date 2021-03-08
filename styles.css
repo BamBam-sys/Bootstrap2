@@ -1,0 +1,42 @@
+body {
+  background: url(images/ocean.jpg) no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Shippori Mincho B1', serif;
+}
+
+.rowHeight {
+  height: 500px;
+}
+
+h1 {
+  color: #000;
+  font-size: 1.8em;
+}
+
+.bg {
+  background-color: #c7ffd8;
+  opacity: 0.8;
+}
+
+.turtle {
+  width: 200px;
+}
+
+.jelly-fish {
+  width: 170px;
+}
+
+.sea-horse {
+  width: 170px;
+}
+
+.footer {
+  background-color: #eae3c8;
+  position: fixed;
+  bottom: 0;
+}
+
+p {
+  font-size: 18px;
+  padding: 10px;
+}
